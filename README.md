@@ -7,5 +7,7 @@ Execute the sudoku.cpp file.
 Ensure that all the header files are included as well.
 
 Acknowledgments:
+
 https://github.com/effolkronium/random -> randm.hpp
+
 https://github.com/haarcuba/cpp-text-table -> TextTable.hpp
